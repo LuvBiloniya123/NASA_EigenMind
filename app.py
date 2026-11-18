@@ -4356,7 +4356,7 @@ with tab3:
 
                     st.write(
                         f"**Potential Earth Applications:**"
-                        f"{rec['Earth _Applications']}"
+                        f"{rec.get('Earth_Applications', 'Not specified')}"
                     )
 
     else:
