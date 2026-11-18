@@ -25,3 +25,5 @@ OpenAI ChatGPT was used as an assistive tool for ideation, research, mathematica
 
 ### Repository
 [GitHub Repository](https://github.com/LuvBiloniya123/NASA_EigenMind)
+Live Interactive Dashboard : [Launch EigenMind on Streamlit](https://streamlit.app)
+
